@@ -44,7 +44,7 @@ export function Footer() {
           <Link href="/brands-developers" className="text-gray-400 hover:text-gray-300 mb-4 md:mb-0">
             For Brands & Developers
           </Link>
-          <p className="text-gray-600">2025 Loaded Holdings, INC.</p>
+          <p className="text-gray-600">2025 RWND INC.</p>
         </div>
       </div>
     </footer>

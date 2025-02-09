@@ -58,7 +58,7 @@ export default function Home() {
                 CONTENT
               </h1>
               <p className="text-lg md:text-xl text-white/90 mb-8 max-w-2xl">
-                Since 2016, Loaded has supported best-in-class content creators with full-service management, helping
+                Since 2016, RWND has supported best-in-class content creators with full-service management, helping
                 them build compelling brands and businesses that push gaming forward.
               </p>
               <Button
